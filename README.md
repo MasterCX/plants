@@ -1,13 +1,13 @@
 # plants（web app）
 
-##header：
+## header：
 1.login button
 
-##sidebar：
+## sidebar：
 1.setting
 
-##main：
+## main：
 1.container
 
-##footer：
+## footer：
 1.links
