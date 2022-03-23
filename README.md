@@ -5,7 +5,8 @@
 2.
 
 ## sidebar：
-1.setting
+1.setting  
+2.login
 
 
 ## main： 
